@@ -1,0 +1,16 @@
+﻿Build started 9/29/2014 7:46:58 AM.
+     1>Project "D:\Documents\CIS 565\Project2-StreamCompaction\project_2\project_2.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\project_2.lastbuildstate".
+       CudaClean:
+         cmd.exe /C "C:\Users\Jiatong\AppData\Local\Temp\tmp9026fa5e4e394dbeb0bc5537db5d87e9.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd  " -o "D:\Documents\CIS 565\Project2-StreamCompaction\project_2\Win32/Debug/compaction.cu.obj" "D:\Documents\CIS 565\Project2-StreamCompaction\project_2\compaction.cu" -clean
+         
+         D:\Documents\CIS 565\Project2-StreamCompaction\project_2>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd  " -o "D:\Documents\CIS 565\Project2-StreamCompaction\project_2\Win32/Debug/compaction.cu.obj" "D:\Documents\CIS 565\Project2-StreamCompaction\project_2\compaction.cu" -clean 
+         compaction.cu
+         Deleting file "Debug\compaction.cu.deps".
+     1>Done Building Project "D:\Documents\CIS 565\Project2-StreamCompaction\project_2\project_2.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.40
